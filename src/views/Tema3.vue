@@ -141,7 +141,7 @@
       p.mb-5 A continuación, se presenta un video sobre el análisis del comportamiento de los usuarios, en el que se explican los principales indicadores de analítica digital y su utilidad para interpretar las interacciones, comprender las preferencias de la audiencia y optimizar la experiencia de navegación.
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/NHPBQvN2vNk?si=AYx0ybTRgkqO-cTt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Análisis del comportamiento de los usuarios en entornos digitales
       .row.justify-content-center.mb-0
         .col-xl-10

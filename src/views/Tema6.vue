@@ -565,7 +565,7 @@
 </template>
 
 <script>
-import audio1 from '@/assets/curso/temas/t6/audios/audio-ej.mp3'
+import audio1 from '@/assets/curso/podcast/optimizacion.mp3'
 export default {
   name: 'Tema6',
   data: () => ({
