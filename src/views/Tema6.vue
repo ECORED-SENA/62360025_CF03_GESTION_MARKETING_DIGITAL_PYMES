@@ -154,7 +154,7 @@
                   img(src='@/assets/curso/temas/t6/img12.png', alt="" ).m-auto
               h4 Semántica
               .caja-12_p
-                p.mb-0 Estudia el significado de los mensajes. En comunicación digital permite analizar si el contenido transmite la idea que la organización desea comunicar. Por ejemplo, el mensaje "#[b Transforma tu futuro profesional]" puede asociarse con crecimiento, aprendizaje y desarrollo personal.
+                p.mb-0 Estudia el significado de los mensajes. En comunicación digital, permite analizar si el contenido transmite la idea que la organización desea comunicar. Por ejemplo, el mensaje "#[b Transforma tu futuro profesional]" puede asociarse con crecimiento, aprendizaje y desarrollo personal.
         .col-xl-6.col-md-9(data-aos="fade-left")
           .caja-12.color-3.h-100
             .row.justify-content-center.mb-3
@@ -557,7 +557,7 @@
               .col-xl.mb-4.mb-lg-0
                 h5 Ejemplo práctico
                 p Una empresa detecta que sus publicaciones presentan un alcance aceptable, baja interacción y pocas conversiones. Después del análisis implementa nuevos diseños, incorpora videos cortos, mejora los llamados a la acción y optimiza los horarios de publicación.
-                p.mb-0 Durante el siguiente período identifica un aumento de la interacción, un incremento de las conversiones y un crecimiento de la audiencia. Estos resultados evidencian cómo la optimización basada en datos fortalece el desempeño de las estrategias digitales y contribuye al cumplimiento de los objetivos organizacionales.
+                p.mb-0 Durante el siguiente período, identifica un aumento de la interacción, un incremento de las conversiones y un crecimiento de la audiencia. Estos resultados evidencian cómo la optimización basada en datos fortalece el desempeño de las estrategias digitales y contribuye al cumplimiento de los objetivos organizacionales.
               .col-xl-auto.col-md-9(data-aos="fade-left")
                 figure
                   img(src='@/assets/curso/temas/t6/img41.png', alt='').m-auto

@@ -365,7 +365,7 @@
                     img(src='@/assets/curso/temas/t5/img19.png', alt='' style="max-width: 500px").m-auto
       .bg-carrusel-1
         .px-5
-          p.mb-5 Para elaborar reportes de calidad es importante seleccionar información relevante y presentarla de manera clara, organizada y fácil de interpretar. Asimismo, se recomienda incluir figuras, gráficos o tablas únicamente cuando aporten valor al análisis y faciliten la comprensión de los resultados, evitar el exceso de información que pueda dificultar la lectura y formular recomendaciones concretas que orienten la toma de decisiones y la mejora continua de las estrategias implementadas. El proceso de análisis estadístico comprende las siguientes etapas:
+          p.mb-5 Para elaborar reportes de calidad, es importante seleccionar información relevante y presentarla de manera clara, organizada y fácil de interpretar. Asimismo, se recomienda incluir figuras, gráficos o tablas únicamente cuando aporten valor al análisis y faciliten la comprensión de los resultados, evitar el exceso de información que pueda dificultar la lectura y formular recomendaciones concretas que orienten la toma de decisiones y la mejora continua de las estrategias implementadas. El proceso de análisis estadístico comprende las siguientes etapas:
           SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-5
             .tarjeta.color-acento-botones.p-4
               .row.justify-content-center.mb-3

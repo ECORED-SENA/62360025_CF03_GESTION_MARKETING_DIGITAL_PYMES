@@ -100,7 +100,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Facilidad de acceso
-                  p.mb-0 Los contenidos que cargan rápidamente, cuentan con un diseño adaptable, presentan mensajes claros y ofrecen una navegación sencilla proporcionan una mejor experiencia al usuario y favorecen la interacción.
+                  p.mb-0 Los contenidos que cargan rápidamente, cuentan con un diseño adaptable, presentan mensajes claros y ofrecen una navegación sencilla; proporcionan una mejor experiencia al usuario y favorecen la interacción.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t3/img14.png', alt='' style="max-width: 500px").m-auto
@@ -122,14 +122,14 @@
                         th.texto-left Contenido B
                     tbody
                       tr.ajuste-color-tabla
-                        td.ajuste-border-tabla.texto-left.text-weight-bold Texto extenso.
-                        td.texto-left Infografía.
+                        td.ajuste-border-tabla.texto-left.text-weight-bold Texto extenso
+                        td.texto-left Infografía
                       tr
-                        td.ajuste-border-tabla.texto-left.text-weight-bold Sin elementos visuales.
-                        td.texto-left Mensajes resumidos.
+                        td.ajuste-border-tabla.texto-left.text-weight-bold Sin elementos visuales
+                        td.texto-left Mensajes resumidos
                       tr.ajuste-color-tabla
                         td.ajuste-border-tabla.texto-left.text-weight-bold - 
-                        td.texto-left Diseño visual atractivo.
+                        td.texto-left Diseño visual atractivo
               .col-xl-auto.col-md-9(data-aos="fade-left")
                 figure
                   img(src='@/assets/curso/temas/t3/img15.png', alt='').m-auto

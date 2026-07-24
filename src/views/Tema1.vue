@@ -119,7 +119,7 @@
             h2 1.2 Conceptos básicos de métricas e indicadores
           .row.align-items-center.mb-5
             .col-xl
-              p Para interpretar correctamente el desempeño de una estrategia digital es necesario comprender dos conceptos fundamentales en los procesos de medición: #[b métricas] e #[b indicadores]. Aunque ambos están relacionados y con frecuencia se utilizan como sinónimos, cumplen funciones diferentes dentro del análisis de resultados.
+              p Para interpretar correctamente el desempeño de una estrategia digital, es necesario comprender dos conceptos fundamentales en los procesos de medición: #[b métricas] e #[b indicadores]. Aunque ambos están relacionados y con frecuencia se utilizan como sinónimos, cumplen funciones diferentes dentro del análisis de resultados.
               p.mb-0 Las métricas proporcionan datos cuantitativos sobre el comportamiento de los usuarios, mientras que los indicadores permiten interpretar esos datos para evaluar el cumplimiento de los objetivos definidos.
             .col-xl-auto.d-none.d-xl-block(data-aos="fade-left")
               figure
@@ -182,7 +182,7 @@
                         i.fas.fa-check-circle
                       | Nivel de participación.
                   p.mb-0 Los indicadores facilitan la interpretación de la información y constituyen un apoyo para la toma de decisiones estratégicas.
-      p.mb-0 Comprender esta diferencia evita interpretar los datos de manera aislada. Por ejemplo, una organización puede identificar que una publicación obtuvo #[b 5.000 visualizaciones], lo cual corresponde a una métrica. Sin embargo, para establecer si ese resultado fue satisfactorio será necesario analizar indicadores relacionados con los objetivos de la campaña, como la tasa de interacción o el porcentaje de conversión.
+      p.mb-0 Comprender esta diferencia evita interpretar los datos de manera aislada. Por ejemplo, una organización puede identificar que una publicación obtuvo #[b 5.000 visualizaciones], lo cual corresponde a una métrica. Sin embargo, para establecer si ese resultado fue satisfactorio, será necesario analizar indicadores relacionados con los objetivos de la campaña, como la tasa de interacción o el porcentaje de conversión.
       Separador
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 1.3 Objetivos de medición en entornos digitales
@@ -340,8 +340,8 @@
         .col-xl-10
           .caja-5(data-aos="zoom-in")
             h5 Ejemplo práctico
-            p Una empresa desea incrementar la participación de sus seguidores. Para lograrlo implementa publicaciones interactivas, encuestas, preguntas abiertas y contenido audiovisual.
-            p Posteriormente analiza indicadores relacionados con los comentarios, las reacciones, los contenidos compartidos y las respuestas obtenidas. La comparación entre las acciones desarrolladas y los resultados alcanzados permite establecer si la estrategia produjo el efecto esperado o si requiere ajustes. La relación entre estrategia y resultados puede entenderse como un proceso de mejora continua:
+            p Una empresa desea incrementar la participación de sus seguidores. Para lograrlo, implementa publicaciones interactivas, encuestas, preguntas abiertas y contenido audiovisual.
+            p Posteriormente, analiza indicadores relacionados con los comentarios, las reacciones, los contenidos compartidos y las respuestas obtenidas. La comparación entre las acciones desarrolladas y los resultados alcanzados permite establecer si la estrategia produjo el efecto esperado o si requiere ajustes. La relación entre estrategia y resultados puede entenderse como un proceso de mejora continua:
             .row.justify-content-center.align-items-center.mb-3
               .col-xl.mb-4.mb-lg-0
                 ol.lista-ol--cuadro.mb-0

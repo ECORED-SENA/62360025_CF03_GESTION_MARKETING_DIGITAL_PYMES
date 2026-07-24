@@ -489,7 +489,7 @@ export default {
         },
         {
           id: 16,
-          texto: '¿Qué representa el engagement?',
+          texto: '¿Qué representa el <i>engagement</i>?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [

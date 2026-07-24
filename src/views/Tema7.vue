@@ -99,7 +99,7 @@
           .row.justify-content-center.align-items-center.mb-0
             .col-xl.mb-4.mb-lg-0
               .caja-2.ajuste-4(data-aos="fade-right")
-                p.mb-0 Para fortalecer la capacidad de atracción de las piezas gráficas es recomendable aplicar estrategias que incrementen su impacto visual y comunicativo. Entre ellas se encuentran destacar claramente los beneficios que ofrece el contenido, utilizar mensajes breves y fáciles de comprender, incorporar llamados a la acción que motiven la participación de la audiencia, fortalecer la identidad visual mediante el uso consistente de colores, tipografías y elementos institucionales, y mejorar la experiencia visual con diseños organizados, atractivos y adaptados a las características de la plataforma digital.
+                p.mb-0 Para fortalecer la capacidad de atracción de las piezas gráficas, es recomendable aplicar estrategias que incrementen su impacto visual y comunicativo. Entre ellas se encuentran destacar claramente los beneficios que ofrece el contenido, utilizar mensajes breves y fáciles de comprender, incorporar llamados a la acción que motiven la participación de la audiencia, fortalecer la identidad visual mediante el uso consistente de colores, tipografías y elementos institucionales, y mejorar la experiencia visual con diseños organizados, atractivos y adaptados a las características de la plataforma digital.
             .col-xl-auto.col-md-9(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/t7/img12.png', alt='').m-auto

@@ -185,7 +185,7 @@
         .col-xl-10
           .caja-5(data-aos="zoom-in")
             h5.mb-0 Ejemplo práctico
-            p Una empresa pública contenido durante un mes en Instagram. Al revisar #[b Instagram Insights] identifica los siguientes resultados:
+            p Una empresa pública contenido durante un mes en Instagram. Al revisar #[b Instagram Insights], identifica los siguientes resultados:
             .row.justify-content-center.align-items-center.mb-3
               .col-xl.mb-4.mb-lg-0
                 ul.fa-ul.estilo___ul.mb-0
@@ -303,20 +303,20 @@
               tbody
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Costo
-                  td.ajuste-border-tabla.texto-left Generalmente de pago.
-                  td.texto-left Gratuito o de bajo costo.
+                  td.ajuste-border-tabla.texto-left Generalmente de pago
+                  td.texto-left Gratuito o de bajo costo
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Personalización
-                  td.ajuste-border-tabla.texto-left Limitada.
-                  td.texto-left Alta.
+                  td.ajuste-border-tabla.texto-left Limitada
+                  td.texto-left Alta
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Soporte técnico
-                  td.ajuste-border-tabla.texto-left Oficial.
-                  td.texto-left Comunidad o soporte propio.
+                  td.ajuste-border-tabla.texto-left Oficial
+                  td.texto-left Comunidad o soporte propio
                 tr.ajuste-color-tabla
                   td.ajuste-border-tabla.texto-left.text-weight-bold Flexibilidad
-                  td.ajuste-border-tabla.texto-left Moderada.
-                  td.texto-left Alta.
+                  td.ajuste-border-tabla.texto-left Moderada
+                  td.texto-left Alta
       Separador
       #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 2.3 Manuales de uso, seguridad y buenas prácticas
@@ -447,7 +447,7 @@
       Separador
       #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 2.4 Configuración básica para la recolección de datos
-      p.mb-5 Antes de iniciar cualquier proceso de análisis es indispensable configurar correctamente las herramientas de medición. Una configuración adecuada garantiza que la información recopilada sea confiable y útil para la evaluación posterior. El proceso de configuración comprende varias etapas que aseguran la calidad de los datos obtenidos:
+      p.mb-5 Antes de iniciar cualquier proceso de análisis, es indispensable configurar correctamente las herramientas de medición. Una configuración adecuada garantiza que la información recopilada sea confiable y útil para la evaluación posterior. El proceso de configuración comprende varias etapas que aseguran la calidad de los datos obtenidos:
       .bg-slider.mb-5
         .px-5
           .ajuste-slider(data-aos="zoom-in")
@@ -476,7 +476,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Validación de registros
-                  p.mb-0 Corresponde a verificar que la herramienta capture y registre correctamente la información generada por los usuarios. Este proceso permite garantizar la calidad, precisión y confiabilidad de los datos antes de realizar su análisis y utilizarlos para la toma de decisiones.
+                  p.mb-0 Corresponde verificar que la herramienta capture y registre correctamente la información generada por los usuarios. Este proceso permite garantizar la calidad, precisión y confiabilidad de los datos antes de realizar su análisis y utilizarlos para la toma de decisiones.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t2/img48.png', alt='' style="max-width: 500px").m-auto
@@ -525,7 +525,7 @@
             .col-xl-10
               .caja-5(data-aos="zoom-in")
                 h5.mb-0 Ejemplo práctico
-                p Una organización desarrolla una campaña de inscripción para un programa de formación. Gracias a una configuración adecuada de la herramienta de analítica puede identificar:
+                p Una organización desarrolla una campaña de inscripción para un programa de formación. Gracias a una configuración adecuada de la herramienta de analítica, puede identificar:
                 .row.justify-content-center.align-items-center.mb-3
                   .col-xl.mb-4.mb-lg-0
                     ul.fa-ul.estilo___ul.mb-0

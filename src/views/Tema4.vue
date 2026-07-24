@@ -176,7 +176,7 @@
                       img(src='@/assets/curso/temas/t4/img10.png', alt="" ).m-auto
                   h4.text-center Interacción y conversión
                   .caja-12_p
-                    p.mb-0 Mientras la interacción evidencia la participación del usuario, la conversión refleja el cumplimiento del objetivo esperado. Por ejemplo: #[b Me gusta seguido de un registro, comentario que conduce a una compra y contenido compartido que genera una solicitud de servicio.]
+                    p.mb-0 Mientras la interacción evidencia la participación del usuario, la conversión refleja el cumplimiento del objetivo esperado. Por ejemplo: #[b me gusta seguido de un registro, comentario que conduce a una compra y contenido compartido que genera una solicitud de servicio.]
             .col-xl-4.col-md-9(data-aos="fade-left")
               .caja-13.h-100
                 .row.justify-content-center.mb-3
@@ -322,15 +322,15 @@
                       li.mb-0
                         span.fa-li
                           i.fas.fa-check-circle
-                        | Alcance alto.
+                        | Alcance alto
                       li.mb-0
                         span.fa-li
                           i.fas.fa-check-circle
-                        | Interacciones bajas.
+                        | Interacciones bajas
                       li.mb-0
                         span.fa-li
                           i.fas.fa-check-circle
-                        | Conversiones mínimas.
+                        | Conversiones mínimas
                     p.mb-0 La información indica que la campaña logró visibilidad, pero no despertó suficiente interés para motivar acciones concretas por parte de la audiencia.
                   .col-xl-auto.col-md-9(data-aos="fade-left")
                     figure

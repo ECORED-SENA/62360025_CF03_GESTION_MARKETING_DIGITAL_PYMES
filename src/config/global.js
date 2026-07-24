@@ -281,10 +281,6 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
-    },
-    {
       termino: 'Analítica digital',
       significado:
         'Recopila y analiza datos de productos de múltiples fuentes digitales para fundamentar las estrategias de producto y marketing. Empresas como Amazon y Netflix han utilizado la analítica digital para impulsar nuevas funciones personalizadas en sus productos. Sin embargo, organizaciones de todos los tamaños pueden emplear la analítica de datos para mejorar la toma de decisiones, reducir la pérdida de clientes, realizar experimentos y aumentar el valor de los clientes existentes. La analítica web, el marketing digital y la analítica de productos forman parte de la analítica digital.',
@@ -300,7 +296,7 @@ export default {
         'Expresa con valores numéricos el rendimiento de una campaña, una estrategia o el área de marketing en general. Es necesario utilizar varias métricas para obtener resultados específicos y mejorar aspectos como la adquisición de clientes y la interacción con los prospectos.',
     },
     {
-      termino: 'Plan de marketing',
+      termino: 'Plan de <i>marketing</i>',
       significado:
         'Es un documento estratégico que define los objetivos comerciales de una empresa y las acciones específicas para alcanzarlos. Funciona como una hoja de ruta que conecta la estrategia con la ejecución, estableciendo plazos, recursos y métricas de éxito.',
     },
@@ -409,12 +405,6 @@ export default {
         {
           nombre: 'German Acosta Ramos',
           cargo: 'Locución',
-          centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
-        },
-        {
-          nombre: 'Ricardo Oliveros Zambrano',
-          cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
