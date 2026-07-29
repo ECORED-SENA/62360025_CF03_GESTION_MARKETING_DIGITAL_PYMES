@@ -392,13 +392,13 @@
                     tbody
                       tr.ajuste-color-tabla
                         td.ajuste-border-tabla.texto-left.text-weight-bold Alcance
-                        td.texto-left Alto.
+                        td.texto-left Alto
                       tr
                         td.ajuste-border-tabla.texto-left.text-weight-bold Interacciones
-                        td.texto-left Bajas.
+                        td.texto-left Bajas
                       tr.ajuste-color-tabla
                         td.ajuste-border-tabla.texto-left.text-weight-bold Conversiones
-                        td.texto-left Muy bajas.
+                        td.texto-left Muy bajas
               .col-xl-6.col-md-9(data-aos="fade-left")
                 figure
                   img(src='@/assets/curso/temas/t6/img30.png', alt='').m-auto

@@ -283,7 +283,7 @@
                 .row.align-items-center
                   .col-xl.col-md-10.order-2.order-lg-1
                     h5 Ejemplo práctico
-                    p.mb-0 Una institución educativa implementa una plataforma open source para analizar el comportamiento de los visitantes de su portal de formación. Mediante esta herramienta identifica las páginas más consultadas, el tiempo de permanencia, los dispositivos utilizados y la ubicación geográfica de los usuarios.
+                    p.mb-0 Una institución educativa implementa una plataforma #[i Open source] para analizar el comportamiento de los visitantes de su portal de formación. Mediante esta herramienta identifica las páginas más consultadas, el tiempo de permanencia, los dispositivos utilizados y la ubicación geográfica de los usuarios.
                   .col-xl-auto.col-md-2.order-1.order-lg-2.mb-3.mb-lg-0(data-aos="fade-left")
                     figure
                       img(src='@/assets/curso/temas/t2/img33.svg', alt='' style="width: 110px").m-auto
