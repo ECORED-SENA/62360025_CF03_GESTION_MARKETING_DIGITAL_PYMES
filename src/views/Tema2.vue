@@ -17,7 +17,7 @@
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t2/img2.jpg')})` }")
         .bloque-texto-g__texto.p-4
-          p.mb-0 Para ello, se utilizan #[b herramientas de analítica digital], plataformas especializadas que recopilan, organizan e interpretan la información generada durante la interacción de los usuarios con los contenidos digitales. La información obtenida facilita la toma de decisiones basada en evidencia, favorece la optimización de campañas y fortalece las estrategias de comunicación. Estas herramientas permiten analizar múltiples variables relacionadas con el rendimiento de las acciones digitales, entre ellas:
+          p.mb-0 Para ello, se utilizan #[b herramientas de analítica digital], plataformas especializadas que recopilan, organizan y presentan información para facilitar su análisis e interpretación. La información obtenida facilita la toma de decisiones basada en evidencia, favorece la optimización de campañas y fortalece las estrategias de comunicación. Estas herramientas permiten analizar múltiples variables relacionadas con el rendimiento de las acciones digitales, entre ellas:
       .bg-slider.mb-5
         .px-5
           .ajuste-slider(data-aos="zoom-in")
@@ -215,7 +215,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t2/img26.png", alt="" ).m-auto
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
             .row(titulo="Mejor toma de decisiones").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Permite planificar y ajustar las estrategias digitales con base en información objetiva obtenida a partir de indicadores y métricas. Esto reduce la incertidumbre y facilita la implementación de acciones más acertadas para alcanzar los objetivos organizacionales.
             .row(titulo="Optimización de recursos").ajuste-cajaAcordion.ajuste-vineta
@@ -483,7 +483,7 @@
       p.mb-5 El proceso general puede resumirse en las siguientes etapas:
       .bg-carrusel
         .px-5
-          SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-5
+          SlyderF(columnas="col-lg-6 col-xl-4" data-aos="zoom-in").mb-5
             .tarjeta.color-acento-botones.p-4
               .row.justify-content-center.mb-3
                 .col-8

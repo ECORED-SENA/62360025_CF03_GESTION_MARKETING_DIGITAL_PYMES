@@ -215,7 +215,7 @@
               figure.d-none.d-xl-block
                 img(src="@/assets/curso/temas/t5/img13.png", alt="" ).m-auto
             .col-xl
-              AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
+              AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
                 .row(titulo="Herramientas utilizadas").ajuste-cajaAcordion.ajuste-vineta
                   p.mb-3 Excel para consolidar información; Google Sheets para el trabajo colaborativo; #[i dashboards] para el seguimiento de indicadores y software de #[i analytics] para generar reportes automáticos.
                 .row(titulo="Clasificación por tiempo").ajuste-cajaAcordion.ajuste-vineta
@@ -366,7 +366,7 @@
       .bg-carrusel-1
         .px-5
           p.mb-5 Para elaborar reportes de calidad, es importante seleccionar información relevante y presentarla de manera clara, organizada y fácil de interpretar. Asimismo, se recomienda incluir figuras, gráficos o tablas únicamente cuando aporten valor al análisis y faciliten la comprensión de los resultados, evitar el exceso de información que pueda dificultar la lectura y formular recomendaciones concretas que orienten la toma de decisiones y la mejora continua de las estrategias implementadas. El proceso de análisis estadístico comprende las siguientes etapas:
-          SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-5
+          SlyderF(columnas="col-lg-6 col-xl-4" data-aos="zoom-in").mb-5
             .tarjeta.color-acento-botones.p-4
               .row.justify-content-center.mb-3
                 .col-8

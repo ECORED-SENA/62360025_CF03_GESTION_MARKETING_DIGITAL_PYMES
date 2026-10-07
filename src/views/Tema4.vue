@@ -64,7 +64,7 @@
               figure.d-none.d-xl-block
                 img(src="@/assets/curso/temas/t4/img4.png", alt="" ).m-auto
             .col-xl
-              AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
+              AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
                 .row(titulo="Alcance").ajuste-cajaAcordion.ajuste-vineta
                   p.mb-3 Corresponde a la cantidad de personas únicas que visualizaron una publicación. Cada usuario se contabiliza una sola vez, independientemente del número de ocasiones en que acceda al contenido. #[b Ejemplo:] si una publicación es vista por los usuarios A, B y C, el alcance corresponde a #[b tres personas alcanzadas].
                 .row(titulo="Impresiones").ajuste-cajaAcordion.ajuste-vineta
@@ -280,7 +280,7 @@
       p.mb-5 El proceso recomendado para interpretar indicadores comprende las siguientes etapas:
       .bg-carrusel
         .px-5
-          SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-5
+          SlyderF(columnas="col-lg-6 col-xl-4" data-aos="zoom-in").mb-5
             .tarjeta.color-acento-botones.p-4
               .row.justify-content-center.mb-3
                 .col-8

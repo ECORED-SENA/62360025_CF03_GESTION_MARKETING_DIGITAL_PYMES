@@ -87,7 +87,7 @@
       p.mb-5 La percepción de una imagen también depende de diversos elementos visuales.
       .bg-carrusel
         .px-5
-          SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in").mb-5
+          SlyderF(columnas="col-lg-6 col-xl-4" data-aos="zoom-in").mb-5
             .tarjeta.color-acento-botones.p-4
               .row.justify-content-center.mb-3
                 .col-8
@@ -312,7 +312,7 @@
           .caja-5(data-aos="zoom-in")
             h5.mb-0 Ejemplo práctico
             p Una empresa pública dos versiones de una misma campaña.
-            ul.fa-ul.estilo___ul.mb-3
+            ul.fa-ul.estilo___ul.mb-0
               li.mb-0
                 span.fa-li
                   i.fas.fa-check-circle
@@ -321,7 +321,6 @@
                 span.fa-li
                   i.fas.fa-check-circle
                 | #[b Versión 2.] Mensaje resumido, diseño organizado, imagen relacionada con el contenido y adecuada jerarquía visual.
-            p.mb-0 text
       p.mb-0 La analítica digital permite identificar #[b qué resultados] obtiene una publicación, mientras que la evaluación visual ayuda a comprender #[b por qué] se producen esos resultados. La integración de ambas perspectivas fortalece la toma de decisiones y contribuye a optimizar los contenidos, consolidar la identidad de marca y mejorar el rendimiento de las estrategias digitales.
       Separador
       #t_6_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -496,7 +495,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t6/img35.png", alt="" ).m-auto
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
             .row(titulo="Mensaje").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Revisar la claridad, la brevedad, la relevancia y los llamados a la acción. Por ejemplo, sustituir el mensaje "Tenemos información importante para nuestros usuarios" por "Inscríbete hoy y accede a nuestra capacitación virtual gratuita", ya que comunica con mayor claridad el beneficio y la acción esperada.
             .row(titulo="Diseño visual").ajuste-cajaAcordion.ajuste-vineta
